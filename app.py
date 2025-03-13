@@ -5,6 +5,8 @@ from textblob import TextBlob
 import re
 from googletrans import Translator, LANGUAGES
 pip install matplotlib
+pip install -r requirements.txt
+
 
 
 # Configuración de la página
