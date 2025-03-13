@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from textblob import TextBlob
 import re
 from googletrans import Translator, LANGUAGES
+pip install matplotlib
+
 
 # Configuración de la página
 st.set_page_config(
