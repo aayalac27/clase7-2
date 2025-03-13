@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from textblob import TextBlob
 import re
 from googletrans import Translator, LANGUAGES
-pip install -r requirements.txt
 
 
 
